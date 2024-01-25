@@ -11,12 +11,12 @@ const Hero = () => {
 
       <div className="w-[80%] grid grid-cols-1 lg:grid-cols-2 mx-auto gap-[3rem] items-center h-[100%] ">
         <div>
-          <h1 className=" text-[35px] md:text-[50px] text-white font-bold ">
+          <h1 className=" text-[33px] md:text-[50px] text-white font-bold ">
             Hi! <span className="  text-yellow-400 ">UMAR</span> this side.
           </h1>
 
           <TypeText />
-          <p className=" text-[17px] text-[#ffffff92] mt-4 ">
+          <p className=" text-[15px] md:text-[17px] text-[#ffffff92] mt-4 ">
           I&apos;m a web whiz skilled in frontend, utilizing the spells of JavaScript, TypeScript, React, Redux, Next, Tailwind, and a lot more. I am also a full stack developer creating magic through MERN. I try to create seamless interfaces and interactive wonders. <br /> (PS: I can be relied on for my fluent writing skills as well.)
           </p>
           <div className=" mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6 text-white">

@@ -57,7 +57,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className=" w-[79%] mt-[2rem] mx-auto flex flex-col md:flex-row items-center justify-between ">
+      <div className=" w-[79%] mt-[2rem] mx-auto flex flex-col md:flex-row items-start md:items-center justify-between ">
         <div className=" text-white opacity-30 mb-[2rem] md:mb-0 text-[16px]">
           © Made by Umar | 2024
         </div>
