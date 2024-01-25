@@ -20,7 +20,7 @@ const Hero = () => {
           I&apos;m a web whiz skilled in frontend, utilizing the spells of JavaScript, TypeScript, React, Redux, Next, Tailwind, and a lot more. I am also a full stack developer creating magic through MERN. I try to create seamless interfaces and interactive wonders. <br /> (PS: I can be relied on for my fluent writing skills as well.)
           </p>
           <div className=" mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6 text-white">
-            <a href="/resume/Umar's CV.pdf" download>
+            <a href="/resume/Umar's Tech CV.pdf" download>
               <button className="px-[2rem] py-[1rem] hover:bg-[#ffffff44] border-[1px] text-[18px] font-bold transition-all duration-300 bg-transparent flex items-center space-x-2">
                 <p>My Résumé</p>
 
