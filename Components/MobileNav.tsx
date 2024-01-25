@@ -1,6 +1,7 @@
 import { XMarkIcon } from "@heroicons/react/20/solid";
 import React from "react";
-import ScrollToPlugin from "gsap/dist/ScrollToPlugin";
+
+import { ScrollToPlugin } from "gsap/dist/ScrollToPlugin";
 import { gsap } from "gsap";
 
 interface Props {
